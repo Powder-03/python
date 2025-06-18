@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/risha/Desktop/100 days of python",
-      "program": "c:/Users/risha/Desktop/100 days of python/build/Debug/outDebug",
+      "cwd": "c:/Users/risha/Desktop/Projects_all/100 days of python",
+      "program": "c:/Users/risha/Desktop/Projects_all/100 days of python/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
